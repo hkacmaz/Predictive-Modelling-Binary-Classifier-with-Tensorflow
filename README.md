@@ -1,4 +1,4 @@
-# Predictive-Analysis-Binary-Classifier-with-Tensorflow
+# Predictive-Modelling-Binary-Classifier-with-Tensorflow
 How to clean/tidy data, How to build a classifier model with TensorFlow, How to train and how to get final results.
 
 
